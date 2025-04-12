@@ -1,0 +1,2 @@
+# senpai-demo
+first repository
